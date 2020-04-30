@@ -28,7 +28,7 @@ draft = "false"
 categories = ["DevOps"]
 tags = ["logging", "development"]
 articletypes = ["Tools And Libraries"]
-vanity = "github.com/appliedgo/what"
+vanity = "github.com/appliedgocode/what"
 +++
 
 Package what provides some handy debug-logging functions that can be enabled and disabled via build flags. No more information leaks in your production code!
